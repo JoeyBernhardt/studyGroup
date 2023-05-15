@@ -1,7 +1,7 @@
 ---
 title: Gentle Introduction to version control with Git and GitHub
-text: In order to make your first event, follow the instructions here.
-location: Your Location
+text: Learn how to use git and GitHub.
+location: Summerlee Science Complex 3317
 link: https://github.com/JoeyBernhardt/studyGroup/issues/1
 date: 2023-05-19
 startTime: '10:30'
